@@ -1,0 +1,23 @@
+{
+  "name": "dragon-angularjs-sample",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Huy Truong"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "angular": "^1.7.4",
+    "angular-route": "^1.7.4",
+    "bootstrap": "^4.1.3"
+  }
+}
